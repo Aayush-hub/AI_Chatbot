@@ -1,7 +1,7 @@
 # Chatbot <img src="images/giffy.gif" width="60" height="50" />
 
 <p align="center">
-<img src="images/giphy.gif" align= "center"/>
+<img src="images/bot.gif" align= "center"/>
 </p>
 
 
