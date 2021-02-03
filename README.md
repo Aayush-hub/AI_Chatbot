@@ -1,7 +1,7 @@
-# Chatbot <img src="https://media.giphy.com/media/9KNNKJ3u8QjCOatFWe/source.gif" width="60" height="50" />
+# Chatbot <img src="images/giffy.gif" width="60" height="50" />
 
 <p align="center">
-<img src="https://media.giphy.com/media/2A1FfWjPqZdpXYb9Ur/giphy.gif" align= "center"/>
+<img src="images/giphy.gif" align= "center"/>
 </p>
 
 
@@ -41,7 +41,7 @@
 - Add upstream 
 
       git add upstream https://github.com/Aayush-hub/AI_Chatbot.git
-      git remote -v`, to check upstream successfully added
+      git remote -v, to check upstream successfully added
 
 - Make new branch for changes  ` git checkout -b branch `
 
