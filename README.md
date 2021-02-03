@@ -1,4 +1,4 @@
-# Chatbot <img src="https://media.giphy.com/media/9KNNKJ3u8QjCOatFWe/source.gif" width="60" height="60" />
+# Chatbot <img src="https://media.giphy.com/media/9KNNKJ3u8QjCOatFWe/source.gif" width="60" height="50" />
 
 <p align="center">
 <img src="https://media.giphy.com/media/2A1FfWjPqZdpXYb9Ur/giphy.gif" align= "center"/>
@@ -7,7 +7,7 @@
 
 
 ## Motivation 
-###### This AI Chatbot is designed to give answers of all basic questions asked in interviews HR round. It helps to practice most common interview questions and their best possible answers. Helpful in building confidence by talking to a bot, that do not get offended to silly answers by you and is always ready to help you when you are alone. Hope ypu will love it and make best out of it.
+##### This AI Chatbot is designed to give answers of all basic questions asked in interviews HR round. It helps to practice most common interview questions and their best possible answers. Helpful in building confidence by talking to a bot, that do not get offended to silly answers by you and is always ready to help you when you are alone. Hope ypu will love it and make best out of it.
 
 ## Quick Start
 - Clone this repository
@@ -38,9 +38,10 @@
 
 - Clone the Repository 
 
-- Add upstream    
+- Add upstream 
 
-` git add upstream https://github.com/Aayush-hub/AI_Chatbot.git`
+      git add upstream https://github.com/Aayush-hub/AI_Chatbot.git
+      git remote -v`, to check upstream successfully added
 
 - Make new branch for changes  ` git checkout -b branch `
 
