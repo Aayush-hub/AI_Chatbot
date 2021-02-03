@@ -69,7 +69,7 @@ Made with :heart:&nbsp;  by
 
  You are allowed to cite any part of the code or our dataset. You can use it in your Research Work or Project. Remember to provide credit to the Maintainer Aayush Garg by mentioning a link to this repository and his GitHub Profile.
 
-Follow this format:
+Follow this format (see [owner.json](owner.json)):
 - Author's name - Aayush Garg
 - Date of publication or update in parentheses.
 - Title or description of document.
