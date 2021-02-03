@@ -1,6 +1,6 @@
 {"intents": [
     {"tag": "greeting",
-     "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day"],
+     "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day","Hey"],
      "responses": ["Hello, thanks for visiting", "Good to see you again", "Hi there, how can I help?"],
      "context_set": ""
     },
@@ -12,21 +12,37 @@
      "patterns": ["Thanks", "Thank you", "That's helpful"],
      "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
-    {"tag": "hours",
-     "patterns": ["What hours are you open?", "What are your hours?", "When are you open?" ],
-     "responses": ["We're open every day 9am-9pm", "Our hours are 9am-9pm every day"]
+    {"tag": "developer",
+     "patterns": ["Are you developer?", "What do you do?", "Who are you?" ],
+     "responses": ["I am developer by passion", "I am a Python Developer", "I am a coder"]
     },
-    {"tag": "payments",
-     "patterns": ["Do you take credit cards?", "Do you accept Mastercard?", "Are you cash only?" ],
-     "responses": ["We accept VISA, Mastercard and AMEX", "We accept most major credit cards"]
+    {"tag": "like",
+     "patterns": ["What you like?", "Do you love anyone?", "Are you in love?" ],
+     "responses": ["I love coding", "I love my father"]
     },
-    {"tag": "opentoday",
-     "patterns": ["Are you open today?", "When do you open today?", "What are your hours today?"],
-     "responses": ["We're open every day from 9am-9pm", "Our hours are 9am-9pm every day"]
+    {"tag": "language",
+     "patterns": ["Which was your first coding language?", "Which language you are efficient in?", "Do you know coding?"],
+     "responses": ["I know python"]
     },
     {"tag": "built",
     "patterns": ["Who built you?", "Who is your father?", "Who is your creator?"],
     "responses": ["Aayush Garg"]
+    },
+    {"tag": "yourself",
+     "patterns": ["Tell me about yourself?", "Can you tell about you?", "Tell me about you?"],
+     "responses": ["My name is Aayush Garg, I am a developer with background in ML", "I am a ML Engineer, done btech"]
+    },
+    {"tag": "position",
+     "patterns": ["Why did you decide to apply for this position?", "Why did you apply in our company?", "Why you want this job?"],
+     "responses": ["I have always wanted to put my engineering degree to a good cause","I have been following your company for the past few years, and I love how you are changing the society" ]
+    },
+    {"tag": "strength",
+     "patterns": ["What is your strength?", "What is you biggest strength?", "What are your skills?"],
+     "responses": ["Problem Solving", "Logical Reasoning", "Leadership", "Creative", "Critical Thinking"]
+    },
+    {"tag": "weakness",
+     "patterns": ["What is your biggest weakness?", "What is your weakness?", "What scares you?"],
+     "responses": ["Real-Life Experience","Communication Skills", "shy and anxious"]
     }
 ]
 }
