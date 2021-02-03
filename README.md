@@ -7,7 +7,7 @@
 
 
 ## Motivation 
-This AI Chatbot is designed to give answers of all basic questions asked in interviews HR round. It helps to practice most common interview questions and their best possible answers. Helpful in building confidence by talking to a bot, that do not get offended to silly answers by you and is always ready to help you when you are alone. Hope ypu will love it and make best out of it.
+This AI Chatbot is designed to give answers of all basic questions asked in interviews HR round. It helps to practice most common interview questions and their best possible answers. Helpful in building confidence by talking to a bot, that do not get offended to silly answers by you and is always ready to help you when you are alone. Hope you will love it and make best out of it.
 
 ## Quick Start
 - Clone this repository
