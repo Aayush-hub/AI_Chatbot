@@ -75,16 +75,16 @@ net = tflearn.fully_connected(net, len(output[0]), activation="softmax")
 net = tflearn.regression(net)
 
 model = tflearn.DNN(net)
-# ''' 
+''' 
 # If model is saved use this:
 try:
     model.load("model.tflearn")
 except:
     model.fit(training, output, n_epoch=1000, batch_size=8, show_metric=True)
     model.save("model.tflearn")
-
-# model.fit(training, output, n_epoch=1000, batch_size=8, show_metric=True)
-# model.save("model.tflearn")
+'''
+model.fit(training, output, n_epoch=1000, batch_size=8, show_metric=True)
+model.save("model.tflearn")
 
 def bag_of_words(s, words):
     bag = [0 for _ in range(len(words))]
