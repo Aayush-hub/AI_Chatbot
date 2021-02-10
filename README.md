@@ -28,6 +28,9 @@ This AI Chatbot is designed to give answers of all basic questions asked in inte
       
 ## Working Example
 ![Image](images/cap.PNG)
+
+## GUI
+![Image](images/gui.png)
       
 ## If you want to contribute to this project, you are warmly welcomed!! 
 
