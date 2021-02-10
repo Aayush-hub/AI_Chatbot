@@ -43,6 +43,10 @@
     {"tag": "weakness",
      "patterns": ["What is your biggest weakness?", "What is your weakness?", "What scares you?"],
      "responses": ["Real-Life Experience","Communication Skills", "shy and anxious"]
+    },
+    {"tag": "you",
+     "patterns": ["How are you?", "What's up?"],
+     "responses": ["Fine, Thankyou","Fine, U tell"]
     }
 ]
 }
