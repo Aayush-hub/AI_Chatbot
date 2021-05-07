@@ -6,7 +6,7 @@ import tensorflow
 import random
 import json
 import pickle
-
+#nltk.download('punkt')   if punkt is missing error occurs
 stemmer = LancasterStemmer()
 
 
